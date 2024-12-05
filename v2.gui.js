@@ -3,9 +3,9 @@
 // @version      1.0.25
 // @namespace    https://github.com/n3ce
 // @description  A hack for kahoot.it!
-// @updateURL    https://github.com/jokeri2222/KaHack/raw/main/KaHack!.meta.js
-// @downloadURL  https://github.com/jokeri2222/KaHack/raw/main/KaHack!.user.js
-// @author       jokeri2222; https://github.com/jokeri2222
+// @updateURL    https://github.com/n3ce/goglle/blob/main/v2.gui.js
+// @downloadURL  hthttps://github.com/n3ce/goglle/blob/main/v2.gui.js
+// @author       n3ce; https://github.com/n3ce
 // @match        https://kahoot.it/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=kahoot.it
 // @grant        none
