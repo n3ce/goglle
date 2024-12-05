@@ -436,8 +436,8 @@ githubLabel.style.color = 'white';
 githubContainer.appendChild(githubLabel);
 
 const githubUrl = document.createElement('a');
-githubUrl.textContent = 'jokeri2222';
-githubUrl.href = 'https://github.com/jokeri2222';
+githubUrl.textContent = 'n3ce';
+githubUrl.href = 'https://github.com/n3ce';
 githubUrl.target = '_blank';
 githubUrl.style.fontFamily = '"Montserrat", "Noto Sans Arabic", "Helvetica Neue", Helvetica, Arial, sans-serif;';
 githubUrl.style.fontSize = '1.5vw';
@@ -447,7 +447,7 @@ githubContainer.appendChild(githubUrl);
 
 const githubUrl2 = document.createElement('a');
 githubUrl2.textContent = 'Epic0001';
-githubUrl2.href = 'https://github.com/Epic0001';
+githubUrl2.href = 'https://github.com/n3ce';
 githubUrl2.target = '_blank';
 githubUrl2.style.fontFamily = '"Montserrat", "Noto Sans Arabic", "Helvetica Neue", Helvetica, Arial, sans-serif;';
 githubUrl2.style.fontSize = '1.5vw';
